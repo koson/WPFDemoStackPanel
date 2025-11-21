@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WpfDemoStackPanel
 {
     public partial class MainWindow : Window
     {
